@@ -1,1 +1,2 @@
 Desarrollé una aplicación de escritorio en Python para la lectura automática de temperatura y humedad desde displays LCD físicos usando visión por computadora clásica (OpenCV). El sistema soporta múltiples cámaras simultáneas, aplica corrección de perspectiva, mejora de contraste (CLAHE) y detección de dígitos de 7 segmentos. Incluye registro de datos en CSV por cámara y barra de resumen global.
+<img width="1600" height="714" alt="image" src="https://github.com/user-attachments/assets/b4da06d3-ddd8-4f0d-8215-601ecc025a83" />
